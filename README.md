@@ -26,9 +26,6 @@ para auxiliar estudantes brasileiros iniciando em atividades de programação. P
 >Mapler Studio é uma ferramenta educacional para aprendizagem e
 desenvolvimento de algoritmos utilizando pseudo-código com a linguagem
 português estruturado (ou “portugol”).
-
-![tela inicio](https://github.com/Projeto-Mapler/ide-desktop/blob/main/img/inicio.png?raw=true)
-
 >Atualmente desenvolvido e mantido por alunos do Instituto Federal
 do Maranhão (IFMA), a ferramenta encontra-se em desenvolvimento e aberta para testes,
 disponibilizando as seguintes funcionalidades básicas:
