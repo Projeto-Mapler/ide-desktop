@@ -55,7 +55,7 @@ disponibilizando as seguintes funcionalidades básicas:
 
 # REQUERIMENTOS
 >Java 11 ou superior, caso necessite voce pode encontrar o java para download nesse [link](https://www.oracle.com/java/technologies/downloads/).
->Caso tenha problemas com a instalação e execução da IDE, aqui estão alguns problemas comuns e suas soluções: [mapler/help](https://github.com/Projeto-Mapler/ide-desktop)
+>Caso tenha problemas com a instalação e execução da IDE, aqui estão alguns problemas comuns e suas soluções: [mapler/help](https://github.com/Projeto-Mapler/ide-desktop/tree/main/ajuda/erros)
 
 # COMO UTILIZAR
 >Um pequeno manual sobre o uso do compilador esta disponivel em [site/mapler](https://portugol.sourceforge.io/manuais.html).
